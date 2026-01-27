@@ -56,7 +56,8 @@ b_r = 0.6
 | Noise Source | N(0,1) |
 
 ### **Result Graphs**
-- Real vs Generated PDF comparison plot saved at `output_gan/z_pdf.png` that contain plot.
+- Real vs Generated PDF comparison plot saved at `output_gan/z_pdf.png` that contain plot
+
 
 ## 💬 Observations
 - **Mode coverage:** Generator captures main modes of the real `z` distribution.  
